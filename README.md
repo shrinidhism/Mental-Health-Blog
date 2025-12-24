@@ -23,6 +23,7 @@ for a simple and reliable platform that provides mental health information in an
 easy-to-understand format.
 
 Tools & Technologies to be Used: 
+● SCSS
 ● HTML5 
 ● CSS3 
 ● Basic JavaScript 
